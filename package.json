@@ -1,0 +1,25 @@
+{
+  "name": "code_snippet_go",
+  "version": "1.0.0",
+  "description": "代码片段生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayaluoya/codeSnippetGo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayaluoya/codeSnippetGo/issues"
+  },
+  "homepage": "https://github.com/yayaluoya/codeSnippetGo#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "yayaluoya-tool": "^1.6.6"
+  }
+}
